@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Coresparent</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_absences">Absences</string>
+    <string name="title_activity_remarques">Remarques</string>
+    <string name="title_activity_eleves">Eleves</string>
+    <string name="title_activity_parametres">Parametres</string>
+    <string name="title_activity_connect_db">connectDB</string>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+</resources>
